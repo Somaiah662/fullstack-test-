@@ -1,0 +1,15 @@
+▶ Employee Utility Tests
+  [32m✔ should return all employee names [90m(5.1546ms)[39m[39m
+  [32m✔ should filter employees by department [90m(0.1661ms)[39m[39m
+  [32m✔ should return the total employee count [90m(0.1234ms)[39m[39m
+  [32m✔ should return zero when there are no employees [90m(0.8702ms)[39m[39m
+  [32m✔ should return an empty array for an unmatched department [90m(0.3564ms)[39m[39m
+[32m✔ Employee Utility Tests [90m(11.8141ms)[39m[39m
+[34mℹ tests 5[39m
+[34mℹ suites 1[39m
+[34mℹ pass 5[39m
+[34mℹ fail 0[39m
+[34mℹ cancelled 0[39m
+[34mℹ skipped 0[39m
+[34mℹ todo 0[39m
+[34mℹ duration_ms 932.4487[39m
